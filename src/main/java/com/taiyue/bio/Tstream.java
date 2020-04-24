@@ -22,7 +22,7 @@ public class Tstream {
         objects.add("5");
 
      PageInfo<List> listPageInfo = new PageInfo(objects);
-
+        System.out.println("你好");
         System.out.println(JSON.toJSONString(listPageInfo));
     }
 }

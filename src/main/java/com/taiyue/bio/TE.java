@@ -3,7 +3,8 @@ package com.taiyue.bio;
 public enum  TE {
     NEW,
     OLD,
-    YOUNG
+    YOUNG,
+    OLDYONG
 }
 class Taa{
     public static void main(String[] args) {
